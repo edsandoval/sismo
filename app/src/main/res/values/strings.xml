@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Sismos Argentina</string>
+    <string name="loading">Cargando sismos...</string>
+    <string name="error_loading">Error al cargar los datos</string>
+    <string name="retry">Reintentar</string>
+    <string name="magnitude">Magnitud</string>
+    <string name="depth">Profundidad</string>
+    <string name="location">Ubicación</string>
+    <string name="time">Fecha y hora</string>
+    <string name="no_earthquakes">No se encontraron sismos</string>
+    <string name="last_updated">Última actualización</string>
+    <string name="updating">Actualizando...</string>
+</resources>
